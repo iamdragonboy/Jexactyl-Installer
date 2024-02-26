@@ -1,8 +1,7 @@
 # Jexactyl
-Install the Jexactyl Panel in minutes!
+Install the [Jexactyl](https://jexactyl.com/) Panel in minutes!
 This script is only tested on ubuntu 20.04, and does not guaranteed to work on other OS.
 
-This is a modified version of Pterodactyl Installer by @tommytran732.
 
 How to use this?
 Run this commands in a terminal:
