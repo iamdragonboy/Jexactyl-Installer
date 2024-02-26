@@ -10,6 +10,6 @@ Run this commands in a terminal:
 bash <(curl -s https://github.com/XezaDev/Jexactyl/blob/main/install.sh)
 ```
 
-Star this repository if you like the script! ;)
+_Star this repository if you like the script! ;)
 
-If you are having some issue, feel free to contact me on my discord, xeza.org.
+> If you are having some issue, feel free to contact me on my discord, xeza.org.
