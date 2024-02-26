@@ -7,7 +7,8 @@ This is a modified version of Pterodactyl Installer by @tommytran732.
 How to use this?
 Run this commands in a terminal:
 
-bash <(curl -s https://github.com/XezaDev/Jexactyl/blob/main/install.sh)
+```bash bash <(curl -s https://github.com/XezaDev/Jexactyl/blob/main/install.sh)
+```
 
 Star this repository if you like the script! ;)
 
