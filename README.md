@@ -7,7 +7,7 @@ How to use this?
 Run this commands in a terminal:
 
 ```
-bash <(curl -s https://github.com/XezaDev/Jexactyl/blob/main/install.sh)
+bash <(curl -s https://raw.githubusercontent.com/iamdragonboy/Jexactyl-Installer/main/install.sh)
 ```
 
 Star this repository if you like the script! ;)
